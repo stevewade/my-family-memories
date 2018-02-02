@@ -7,10 +7,9 @@ var APP_ID = "";
 
 //List of memories
 var MEMORY_LIST = [
-    "Saturday 6th May 2017. Mum and Dad ran the Rat Race obstacle course. It was a tough 20 mile obstacle course that took 7 hours and 40 minutes to complete. This was the day after we found ot we were having a baby!",
-    "Thursday 28th December 2017. Dad created this Alexa app today. We still don't know if we're having a baby girl or boy!",
-    "Friday 5th May 2017. We found out we were having a baby today! Mum told Dad when he was driving on the motorway!",
-    "Sunday 29th October 2017. Dad ran the Dublin Marathon, and that night asked Mum to marry him. She said yes!"
+    "Saturday 6th May 2017. Memory text goes here and is read out by alexa",
+    "more memories",
+    "even more memories"
     
 ];
 
